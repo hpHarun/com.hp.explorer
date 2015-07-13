@@ -1,2 +1,2 @@
 # com.hp.explorer
-genral logical program
+This project is created to prepare programming stuff for the interview
